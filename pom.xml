@@ -19,7 +19,7 @@
 
     <licenses>
         <license>
-            <name>The Apache Software License, Version 2.1</name>
+            <name>The Apache Software License, Version 2.2</name>
             <url>https://raw.github.com/WASdev/sample.servlet/master/LICENSE</url>
             <distribution>repo</distribution>
         </license>
